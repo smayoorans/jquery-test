@@ -11,8 +11,13 @@ h1, h2, h3 {
 }
 .highlight {
     background-color: #ccc;
-    border: 1px solid #888;
+    border: 5px solid #888;
     font-style: italic;
     margin: 0.5em 0;
     padding: 0.5em;
 }
+
+.poem-stanza {
+    background-color: #4148dd;
+}
+
